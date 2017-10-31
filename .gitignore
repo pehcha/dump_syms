@@ -10,3 +10,4 @@ dump_syms.sln
 dump_syms.vcxproj
 pdb_parser.vcxproj
 Default/*
+build/*
